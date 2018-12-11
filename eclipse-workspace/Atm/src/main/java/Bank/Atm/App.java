@@ -1,4 +1,4 @@
-package New.York;
+package Bank.Atm;
 
 /**
  * Hello world!
@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World Amigo!" );
+        System.out.println( "Hello World!" );
     }
 }
